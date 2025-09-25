@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "b7d7408c0e1353b1a6cbad4af5dfe4e11b1745fd2851062cd1b596162b7e7edb"
+build_start_time: [1758726822, 597611000]
+build_end_time: [1758726822, 754775000]
+inputs:
+  "/Users/a7/Desktop/hanafi-web/hanafi_web/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1758725263, 955536118]
+  "/Users/a7/Desktop/hanafi-web/hanafi_web/macos/Runner/AppDelegate.swift": !private [1755506021, 643930652]
+  "/Users/a7/Desktop/hanafi-web/hanafi_web/macos/Runner/MainFlutterWindow.swift": !private [1755506021, 655543989]
